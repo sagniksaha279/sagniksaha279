@@ -11,7 +11,7 @@ Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about i
 - 💻 Proficient in **Web Development** — HTML, CSS, JavaScript, and modern frameworks  
 - ☕ Skilled in **Java** with strong **Data Structures & Algorithms (DSA)** foundation  
 - 🌐 Familiar with **C** and **Python** (basics)  
-- 🏆 Solved **132+ LeetCode problems** *(live count below)*  
+- 🏆 Solved **130+ LeetCode problems** *(live count below)*  
 - 🎯 Participant in **GDSC Hackathons** & other tech events  
 
 ---
