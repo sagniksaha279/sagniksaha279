@@ -17,19 +17,19 @@ Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about i
 ---
 
 ## 💼 Current & Past Internships
-- **Web Development Intern — KODBUD** *(Jul–Aug 2025)*
+- **Web Development Intern — KODBUD** *(Jul–Aug 2025)* 
 - **Machine Learning Intern — CodeAlpha** *(Aug–Sep 2025)*
-- **Machine Learning Intern — TECHNEX IIT (BHU) Varanasi / EISystems**
+- **Machine Learning Intern — TECHNEX IIT (BHU) Varanasi / EISystems** *(From Oct 2025)* 
 - **Back End Intern — TechNest** *(Jul–Sep 2025)*
 
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** HTML • CSS • JavaScript • React • TailwindCSS • GSAP  
+**Frontend:** HTML • CSS • JavaScript • TailwindCSS • BootStrap
 **Backend:** Node.js • Express.js  
 **Databases:** MySQL • MongoDB  
 **Languages:** Java • C • Python  
-**Tools:** Git • GitHub • VS Code • Postman • Hoppscotch
+**Tools:** Git • GitHub • VS Code • Postman  
 
 ---
 
@@ -51,11 +51,6 @@ Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about i
 
 ---
 
-## 📈 Animated Coding Activity
-![Coding Activity](https://github-readme-streak-stats.herokuapp.com?user=sagniksaha279&theme=tokyonight&hide_border=false)  
-
----
-
 ## 🏆 Badges
 ![Hackathon](https://img.shields.io/badge/Hackathon-Participant-brightgreen?style=for-the-badge&logo=hackclub&logoColor=white)  
 ![Web Development](https://img.shields.io/badge/Web%20Development-Expert-blue?style=for-the-badge&logo=javascript&logoColor=white)  
@@ -66,14 +61,15 @@ Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about i
 ---
 
 ## 📊 Live LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sagniksaha279?theme=dark&ext=contest)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sagnik_Saha_279?theme=dark&ext=contest)](https://leetcode.com/u/Sagnik_Saha_279/)  
 
 ---
 
 ## 🌐 Connect with Me
 💼 [GitHub](https://github.com/sagniksaha279)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sagniksaha279)  
-📧 **sagniksaha279@gmail.com**  
+📄 [Resume](https://drive.google.com/file/d/1j3xWqTFZuw8nojZUQMNb6THdRU283XJI/view?usp=drive_link)  
+📧 **sagniksaha279@gmail.com**
 
 ---
 
