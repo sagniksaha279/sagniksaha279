@@ -29,7 +29,7 @@ Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about i
 **Backend:** Node.js • Express.js  
 **Databases:** MySQL • MongoDB  
 **Languages:** Java • C • Python  
-**Tools:** Git • GitHub • VS Code • Postman  
+**Tools:** Git • GitHub • VS Code • Postman • Hoppscotch
 
 ---
 
