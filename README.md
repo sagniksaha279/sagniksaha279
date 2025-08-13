@@ -17,10 +17,10 @@ Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about i
 ---
 
 ## 💼 Current & Past Internships
-- **Web Development Intern — KODBUD** *(Jul–Aug 2025)*:contentReference[oaicite:4]{index=4}  
-- **Machine Learning Intern — CodeAlpha** *(Aug–Sep 2025)*:contentReference[oaicite:5]{index=5}  
-- **Machine Learning Intern — TECHNEX IIT (BHU) Varanasi / EISystems** *(From Oct 2025)*:contentReference[oaicite:6]{index=6}  
-- **Back End Intern — TechNest** *(Jul–Sep 2025)*:contentReference[oaicite:7]{index=7}  
+- **Web Development Intern — KODBUD** *(Jul–Aug 2025)
+- **Machine Learning Intern — CodeAlpha** *(Aug–Sep 2025)
+- **Machine Learning Intern — TECHNEX IIT (BHU) Varanasi / EISystems**
+- **Back End Intern — TechNest** *(Jul–Sep 2025)
 
 ---
 
