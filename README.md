@@ -26,6 +26,7 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 🛠 Tech Stack
 **Frontend:** HTML • CSS • JavaScript • TailwindCSS • BootStrap
+
 **Backend:** Node.js • Express.js  
 **Databases:** MySQL • MongoDB  
 **Languages:** Java • C • Python  
