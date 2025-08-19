@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Sagnik Saha 🚀
 
 Welcome to my GitHub — where I turn coffee ☕ into code 💻 and ideas into impactful projects.  
-Co-founder of **Tech Riders** 🏍, hackathon enthusiast, and passionate about innovating for a smarter tomorrow.  
+Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.  
 
 ---
 
