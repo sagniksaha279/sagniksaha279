@@ -68,13 +68,13 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 🌐 Connect with Me
 
-[💼 GitHub](https://github.com/sagniksaha279)  
-[🔗 LinkedIn](https://www.linkedin.com/in/sagniksaha279)  
-[📄 Resume](https://drive.google.com/file/d/1j3xWqTFZuw8nojZUQMNb6THdRU283XJI/view?usp=drive_link)  
-[📧 Email](mailto:sagniksaha279@gmail.com)  
-[🎥 YouTube](https://www.youtube.com/@TechRidersCode)  
-[🔥 LeetCode](https://leetcode.com/u/Sagnik_Saha_279/)  
-[💬 Discord](https://discordapp.com/users/1152556278778974248) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sagniksaha279)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagniksaha279)  
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1j3xWqTFZuw8nojZUQMNb6THdRU283XJI/view?usp=drive_link)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagniksaha279@gmail.com)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechRidersCode)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sagnik_Saha_279/)  
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1152556278778974248)
 
 ---
 
