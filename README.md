@@ -3,7 +3,6 @@
 Welcome to my GitHub — where I turn coffee ☕ into code 💻 and ideas into impactful projects.  
 Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.  
 
----
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎓 About Me
@@ -16,7 +15,6 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 - 🎯 Participant in **GDSC Hackathons** & other tech events  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
----
 
 ## 💼 Current & Past Internships
 - **Web Development Intern — KODBUD** *(Jul–Aug 2025)* 
