@@ -4,6 +4,7 @@ Welcome to my GitHub — where I turn coffee ☕ into code 💻 and ideas into i
 Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.  
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎓 About Me
 - 🎓 Pursuing **BCA (Bachelor of Computer Applications)** — currently in 3rd year  
@@ -14,6 +15,7 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 - 🏆 Solved **130+ LeetCode problems** *(live count below)*  
 - 🎯 Participant in **GDSC Hackathons** & other tech events  
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ---
 
 ## 💼 Current & Past Internships
