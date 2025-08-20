@@ -77,10 +77,10 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 ### ⚡ Fun Fact
 I don’t just write code — I craft **digital experiences** that make ideas come alive. 🌟 Innovating today for a smarter tomorrow.
 
----
-
 <div align="center">
     <a href="#top">
         <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
     </a>
 </div>
+
+---
