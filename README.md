@@ -68,8 +68,6 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
 [💼 GitHub](https://github.com/sagniksaha279)  
 [🔗 LinkedIn](https://www.linkedin.com/in/sagniksaha279)  
 [📄 Resume](https://drive.google.com/file/d/1j3xWqTFZuw8nojZUQMNb6THdRU283XJI/view?usp=drive_link)  
