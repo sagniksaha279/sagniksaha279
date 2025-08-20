@@ -73,6 +73,10 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 📧 **sagniksaha279@gmail.com**
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150%">
+---
 
 ### ⚡ Fun Fact
 I don’t just write code — I craft **digital experiences** that make ideas come alive. 🌟 Innovating today for a smarter tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
