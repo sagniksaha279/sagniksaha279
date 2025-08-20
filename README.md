@@ -68,13 +68,15 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 🌐 Connect with Me
 
-- 💼 [GitHub](https://github.com/sagniksaha279)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sagniksaha279)  
-- 📄 [Resume](https://drive.google.com/file/d/1j3xWqTFZuw8nojZUQMNb6THdRU283XJI/view?usp=drive_link)  
-- 📧 [Email](mailto:sagniksaha279@gmail.com)  
-- 🎥 [YouTube](https://www.youtube.com/@TechRidersCode)  
-- 🔥 [LeetCode](https://leetcode.com/u/Sagnik_Saha_279/)  
-- 💬 [Discord](https://discordapp.com/users/1152556278778974248)
+## 🌐 Connect with Me
+
+[💼 GitHub](https://github.com/sagniksaha279)  
+[🔗 LinkedIn](https://www.linkedin.com/in/sagniksaha279)  
+[📄 Resume](https://drive.google.com/file/d/1j3xWqTFZuw8nojZUQMNb6THdRU283XJI/view?usp=drive_link)  
+[📧 Email](mailto:sagniksaha279@gmail.com)  
+[🎥 YouTube](https://www.youtube.com/@TechRidersCode)  
+[🔥 LeetCode](https://leetcode.com/u/Sagnik_Saha_279/)  
+[💬 Discord](https://discordapp.com/users/1152556278778974248) 
 
 ---
 
