@@ -18,7 +18,6 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 💼 Current & Past Internships
 - **Web Development Intern — KODBUD** *(Jul–Aug 2025)* 
-- **Machine Learning Intern — CodeAlpha** *(Aug–Sep 2025)*
 - **Machine Learning Intern — TECHNEX IIT (BHU) Varanasi / EISystems** *(From Oct 2025)* 
 - **Back End Intern — TechNest** *(Jul–Sep 2025)*
 
@@ -55,7 +54,7 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 ## 🏆 Badges
 ![Hackathon](https://img.shields.io/badge/Hackathon-Participant-brightgreen?style=for-the-badge&logo=hackclub&logoColor=white)  
 ![Web Development](https://img.shields.io/badge/Web%20Development-Expert-blue?style=for-the-badge&logo=javascript&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-DSA%20Pro-orange?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-DSA%20-orange?style=for-the-badge&logo=java&logoColor=white)  
 ![LeetCode](https://img.shields.io/badge/LeetCode-Problems%20Solved-yellow?style=for-the-badge&logo=leetcode&logoColor=white)  
 ![GDSC](https://img.shields.io/badge/GDSC-Participant-red?style=for-the-badge&logo=google&logoColor=white)  
 
