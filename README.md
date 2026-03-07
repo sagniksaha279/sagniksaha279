@@ -61,7 +61,7 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 ---
 
 ## 📊 Live LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sagnik_Saha_279?theme=dark&ext=contest)](https://leetcode.com/u/Sagnik_Saha_279/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sagnik_Saha_279?theme=dark&ext=contest)](https://leetcode.com/u/sagniksaha279/)  
 
 ---
 
