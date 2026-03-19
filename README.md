@@ -7,18 +7,17 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 🎓 About Me
 - 🎓 Pursuing **BCA (Bachelor of Computer Applications)** — currently in 3rd year  
-- 📈 **CGPA:** 8.5 (cumulative)  
+- 📈 **CGPA:** 8.46 (cumulative)  
 - 💻 Proficient in **Web Development** — HTML, CSS, JavaScript, and modern frameworks  
 - ☕ Skilled in **Java** with strong **Data Structures & Algorithms (DSA)** foundation  
 - 🌐 Familiar with **C** and **Python** (basics)  
-- 🏆 Solved **130+ LeetCode problems** *(live count below)*  
+- 🏆 Solved **250+ LeetCode problems** *(live count below)*  
 - 🎯 Participant in **GDSC Hackathons** & other tech events  
 
 ---  
 
 ## 💼 Current & Past Internships
-- **Web Development Intern — KODBUD** *(Jul–Aug 2025)* 
-- **Machine Learning Intern — TECHNEX IIT (BHU) Varanasi / EISystems** *(From Oct 2025)* 
+- **Web Development Intern — KODBUD** *(Jul–Aug 2025)*
 - **Back End Intern — TechNest** *(Jul–Sep 2025)*
 
 ---
@@ -35,7 +34,7 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 🏆 Achievements & Activities
 - 🏍 **Co-founder of Tech Riders** — built multiple hackathon projects  
-- 🎯 **GDSC Participant** — collaborated on innovative solutions  
+- 🎯 **GDSC & SIH Participant** — collaborated on innovative solutions  
 - 🛠 Created real-world applications solving community challenges  
 
 ---
