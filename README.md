@@ -37,14 +37,6 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 - 🎯 **GDSC & SIH Participant** — collaborated on innovative solutions  
 - 🛠 Created real-world applications solving community challenges  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagniksaha279&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagniksaha279&layout=compact&theme=tokyonight)  
-
----
-
 ## 🎯 Contribution Graph
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagniksaha279&theme=tokyo-night)  
 
