@@ -75,6 +75,16 @@ Feature-rich Java CLI task manager with priority marking, dynamic arrays for rea
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagniksaha279&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagniksaha279&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+---
+
 ## 🎯 Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagniksaha279&theme=tokyo-night)
