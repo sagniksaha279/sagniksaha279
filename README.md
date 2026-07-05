@@ -73,27 +73,6 @@ A robust Python-based voice tool with 98% transcription accuracy, QR generation 
 ### 📋 Task Tracker CLI — Java Productivity Manager
 Feature-rich Java CLI task manager with priority marking, dynamic arrays for real-time manipulation, persistent storage, and clean OOP architecture.
 
-
----
-
-## 🎯 GitHub Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagniksaha279&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
-  
-  <img src="https://streak-stats.demolab.com?user=sagniksaha279&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagniksaha279&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagniksaha279&theme=github_dark&hide_border=true" height="170" />
-</p>
-
 ---
 
 ## 🎯 Contribution Graph
