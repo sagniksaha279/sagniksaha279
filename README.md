@@ -23,6 +23,7 @@ Hackathon enthusiast, and passionate about innovating for a smarter tomorrow.
 
 ## 💼 Current & Past Internships
 
+- **IT Intern — CRIZAC** *(Jul 2026 - Currently working)*  
 - **Web Development Intern — KODBUD** *(Jul–Aug 2025)*  
 - **Back End Intern — TechNest** *(Jul–Sep 2025)*  
 
